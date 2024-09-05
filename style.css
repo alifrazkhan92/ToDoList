@@ -15,6 +15,7 @@ input[type="text"]:focus {
 
 .todos li {
   background: #423a6f;
+  color: #fff;
 }
 
 .delete {
